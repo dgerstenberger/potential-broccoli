@@ -11,3 +11,4 @@ A sample repository for the Git workshop on June 7th at University Paderborn.
 | ------------- |----------------|:-------------: | :-----   |
 | John Doe      |Computer Science| +/o/-          | Some words about what you liked, what not... |
 | dgerstenberger|DDI             | +              | cool repository name |
+| dgerstenberger|DDI             | +              | back again |
